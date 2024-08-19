@@ -5,8 +5,8 @@ import pickle
 from tqdm import tqdm
 
 # Set your directory paths
-dir = "/Users/sean/Desktop/vm/datasets/archive"  # Replace with your actual directory path
-newDir = "/Users/sean/Desktop/vm/datasets/bigText"
+dir = "/Users/xxx/Desktop/vm/datasets/archive"  # Replace with your actual directory path
+newDir = "/Users/xxx/Desktop/vm/datasets/bigText"
 
 # Ensure the new directory exists
 if not os.path.exists(newDir):
